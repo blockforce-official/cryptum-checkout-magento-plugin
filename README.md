@@ -1,4 +1,4 @@
-Cryptum Checkout Bitcoin Merchant plugin for Magento 2
+Cryptum Checkout plugin for Magento 2
 ---------------
 This is [Cryptum Checkout Extension for Magento 2](https://github.com/blockforce-official/cryptum-checkout-magento-plugin). This extenstion allows to easily accept cryptocurrencies such as ETHEREUM and CELO at your Magento 2 website.
 
